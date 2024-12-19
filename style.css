@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+
+}
+#title1 {
+    color:white;
+    text-align: center; 
+    border: bisque;
+}
+#link1 {
+    color: white;
+    text-align: center;
+}
+
+#familyguyep2 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#link3 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
